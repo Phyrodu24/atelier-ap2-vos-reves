@@ -1,4 +1,4 @@
-Dans le fichier Excel " Imprimante_Groupe_B.xlsm ", vous retrouverez trois feuilles nommés successivement : Imprimante, Consommable et DATA
+Dans le fichier Excel " Imprimante_Groupe_B.xlsm ", vous retrouverez trois feuilles nommées successivement : Imprimante, Consommable et DATA
 
 
 
@@ -11,3 +11,6 @@ le type de consommable, la marque, la référence, le prix, le rendement et la c
 La troisième feuille nommée " DATA " quand à elle, contient des données permettant à certaines colonnes des deux premières feuilles, de lister les données prédéfinis
 via une liste déroulante.
 
+
+
+Dans la feuille " Imprimante " et " Consommable ", un bouton [Formulaire] est présent. Ce dernier permet d'ouvrir un formulaire d'ajout d'imprimantes et de consommables codé en VBA (Visual Basic for Applications). Dans la fenêtre du formulaire se trouve deux onglets permettant de naviguer entre la page d'ajout d'imprimantes et la page d'ajout de consommables.
